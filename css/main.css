@@ -35,7 +35,7 @@
 
 @font-face {
   font-family: "DM Sans";
-  src: url(/fonts/DMSansRegular.woff2) format("woff2");
+  src: url(../fonts/DMSansRegular.woff2) format("woff2");
   font-weight: 400;
   font-display: swap;
   font-style: normal;
@@ -43,7 +43,7 @@
 
 @font-face {
   font-family: "DM Sans";
-  src: url(/fonts/DMSansMedium.woff2) format("woff2");
+  src: url(../fonts/DMSansMedium.woff2) format("woff2");
   font-weight: 500;
   font-display: swap;
   font-style: normal;
@@ -51,7 +51,7 @@
 
 @font-face {
   font-family: "DM Sans";
-  src: url(/fonts/DMSansBold.woff2) format("woff2");
+  src: url(../fonts/DMSansBold.woff2) format("woff2");
   font-weight: 700;
   font-display: swap;
   font-style: normal;
